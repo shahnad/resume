@@ -1,0 +1,33 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "shahnad -resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahnad/resume.git"
+  },
+  "keywords": [
+    "shahnads",
+    "react",
+    "developer",
+    "software",
+    "engineer",
+    "indian",
+    "developers",
+    "in",
+    "react"
+  ],
+  "author": "shahnad s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahnad/resume/issues"
+  },
+  "homepage": "https://github.com/shahnad/resume#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
